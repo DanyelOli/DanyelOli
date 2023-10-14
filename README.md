@@ -18,7 +18,5 @@
 <div> 
   <a href="https://www.instagram.com/danyeloli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/daniel-oliveira-1116ab260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/DanyelOli/DanyelOli/blob/output/github-contribution-grid-snake.svg)
 
 </div>
